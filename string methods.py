@@ -1,0 +1,10 @@
+course = 'mothafucka bastardddddddd'
+print(len(course))
+print(str.upper(course))
+print(course.upper())
+print(course.lower())
+print(course.find('X'))
+print(course.find('fuck'))
+print(course.replace('motha', 'fatha'))
+print('fuck' in course)
+print('Here, "in" represents a bullian value of either true or false')
